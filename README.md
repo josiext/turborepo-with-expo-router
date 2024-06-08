@@ -9,4 +9,4 @@ This is a simple example of a Turborepo monorepo with an Expo app that uses Expo
 
 ## Capture
 
-![App capture](./capture.png)
+<img src="./capture.png" alt="drawing" width="200"/>
