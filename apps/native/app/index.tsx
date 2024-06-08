@@ -1,11 +1,8 @@
 import { StyleSheet, Text, View } from "react-native";
 import { StatusBar } from "expo-status-bar";
-import { useNavigation } from "expo-router";
 import { Button } from "@repo/ui";
 
 export default function Native() {
-  const { navigate } = useNavigation();
-
   return (
     <View style={styles.container}>
       <Text style={styles.header}>Turborepo + Expo Router</Text>
