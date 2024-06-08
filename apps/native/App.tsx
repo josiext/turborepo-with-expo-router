@@ -6,13 +6,9 @@ export default function Native() {
   return (
     <View style={styles.container}>
       <Text style={styles.header}>Native</Text>
-      <Button
-        onClick={() => {
-          console.log("Pressed!");
-          alert("Pressed!");
-        }}
-        text="Boop"
-      />
+
+      <Button onClick={() => alert("Hello")} text="Click me!" />
+
       <StatusBar style="auto" />
     </View>
   );
