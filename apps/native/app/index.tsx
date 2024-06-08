@@ -8,7 +8,7 @@ export default function Native() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Hola desde app JAJAJA</Text>
+      <Text style={styles.header}>Turborepo + Expo Router</Text>
 
       <Button onClick={() => alert("Hello")} text="Click me!" />
 
