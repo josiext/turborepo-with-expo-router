@@ -1,6 +1,6 @@
 # Turborepo with Expo Router App
 
-This is a simple example of a Turborepo monorepo with an Expo app that uses Expo Router. Based on turborepo template but updated to @Expo51 and Expo Router implemented.
+This is a simple example of a Monorepo using Turborepo@2.0 and Expo@51 app that uses Expo Router.
 
 1. `yarn install`
 2. Build ui package: `yarn build`
